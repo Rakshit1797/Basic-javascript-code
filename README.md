@@ -1,3 +1,6 @@
+# Basic-javascript-code
+Write a JavaScript program that modifies an image by putting three vertical stripes on it - a red stripe on the left one third, a green stripe in the middle, and a blue stripe on the right one third
+
 var img = new SimpleImage("usain.jpg");
 print(img);
 print(img.getWidth());
